@@ -1,0 +1,9 @@
+# dependencies
+/node_modules
+/.next
+
+# Build files
+dist/
+
+# node dependencies
+package-lock.json
